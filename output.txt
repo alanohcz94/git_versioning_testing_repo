@@ -1,0 +1,1 @@
+['I see through the lies of the Jedi.\n', 'I do not fear the dark side as you do.\n', 'I have brought peace, freedom, justice, and security to my new Empire!\n']
