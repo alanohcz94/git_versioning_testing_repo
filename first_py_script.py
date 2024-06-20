@@ -7,7 +7,7 @@ directory = sys.argv[1]
 with open(directory, 'r') as f:
     print(f.readlines())
 
-
+print("I have added a line to create conflict")
 #Added more nonsese line here
 #Adding nonsense that shouldn't be here. This should be used as a comment.
 
