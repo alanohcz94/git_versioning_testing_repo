@@ -13,6 +13,8 @@ print("Hello there I hope I have created a conflict to merge")
 #Added more nonsese line here
 #Adding nonsense that shouldn't be here. This should be used as a comment.
 
+
+#Added comments here to test the rebase
 def check_disk_full(disk, min_gb, min_percent):
     du=shutil.disk_usage(disk)
     percent_free = 100 * du.free / du.total
