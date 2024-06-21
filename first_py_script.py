@@ -40,6 +40,5 @@ def main():
     print("Everything is okay")
     sys.exit(0)
 
-#Added a line into this code here git branch
-# Added seconed line into this code here git branch
+#I have added something here I wish it creates a conflcit
 main()
