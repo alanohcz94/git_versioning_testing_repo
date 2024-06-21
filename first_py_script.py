@@ -15,6 +15,7 @@ print("Hello there I hope I have created a conflict to merge")
 
 
 #Added comments here to test the rebase
+# git branch2 added a comment on current
 def check_disk_full(disk, min_gb, min_percent):
     du=shutil.disk_usage(disk)
     percent_free = 100 * du.free / du.total
