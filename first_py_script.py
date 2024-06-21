@@ -13,10 +13,6 @@ print("Hello there I hope I have created a conflict to merge")
 #Added more nonsese line here
 #Adding nonsense that shouldn't be here. This should be used as a comment.
 
-
-#Added comments here to test the rebase
-# git branch2 added a comment on current
-# git branch2 added another comment on current
 def check_disk_full(disk, min_gb, min_percent):
     du=shutil.disk_usage(disk)
     percent_free = 100 * du.free / du.total
@@ -40,6 +36,4 @@ def main():
     print("Everything is okay")
     sys.exit(0)
 
-#Added a line into this code here git branch
-# Added seconed line into this code here git branch
 main()
