@@ -40,5 +40,4 @@ def main():
     print("Everything is okay")
     sys.exit(0)
 
-#I have added something here I wish it creates a conflcit
 main()
